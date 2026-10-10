@@ -1,0 +1,4 @@
+3
+R1 Explain stack operations with example
+R2 Explain queue operations with example
+R3 Define normalization
